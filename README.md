@@ -55,9 +55,9 @@ render(<Input />, document.querySelector('#app'))
 https://reactjs.org/docs/accessibility.html
 
 
-## 6.Check out https://jaredpalmer.com/formik/
+## 6.Check out these resources - please do your best to read them. 
 
-### More resources 
+https://jaredpalmer.com/formik/ 
 
 https://reactjs.org/docs/forms.html
 

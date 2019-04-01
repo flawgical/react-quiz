@@ -1,4 +1,4 @@
-# react-quiz and more reading for this morning
+# React-quiz and more reading for this morning
 
 # Please slack your local instructor the answers to these questions.  
 

@@ -1,6 +1,6 @@
-# react-quiz
+# react-quiz and more reading for this morning
 
-# Please slack your local instructor the answers to these questions. 
+# Please slack your local instructor the answers to these questions.  
 
 ## 1. Describe what .bind .call .apply do? 
 
@@ -55,3 +55,14 @@ render(<Input />, document.querySelector('#app'))
 https://reactjs.org/docs/accessibility.html
 
 
+## 6.Check out https://jaredpalmer.com/formik/
+
+### More resources 
+
+https://reactjs.org/docs/forms.html
+
+https://css-tricks.com/understanding-react-setstate/
+
+https://medium.com/@agoiabeladeyemi/the-complete-guide-to-forms-in-react-d2ba93f32825
+
+https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a
